@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://educatino.github.io/"/>
-  <updated>2018-03-04T22:39:53.738Z</updated>
+  <updated>2018-04-19T09:48:56.567Z</updated>
   <id>https://educatino.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Probando</title>
-    <link href="https://educatino.github.io/2018/03/04/Probando/"/>
-    <id>https://educatino.github.io/2018/03/04/Probando/</id>
-    <published>2018-03-04T21:41:00.000Z</published>
-    <updated>2018-03-04T22:39:53.738Z</updated>
+    <title>Curso: Taller introductorio a Internet de las Cosas 2018</title>
+    <link href="https://educatino.github.io/2018/04/19/Curso-Taller-introductorio-a-Internet-de-las-Cosas/"/>
+    <id>https://educatino.github.io/2018/04/19/Curso-Taller-introductorio-a-Internet-de-las-Cosas/</id>
+    <published>2018-04-19T09:06:32.000Z</published>
+    <updated>2018-04-19T09:48:56.567Z</updated>
     
     <summary type="html">
     
@@ -29,29 +29,8 @@
       
         
         
-          &lt;iframe frameborder=&quot;0&quot;
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://educatino.github.io/2018/03/04/hello-world/"/>
-    <id>https://educatino.github.io/2018/03/04/hello-world/</id>
-    <published>2018-03-04T14:09:27.470Z</published>
-    <updated>2018-03-04T14:09:27.470Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;&lt;img src=&quot;https://prometeusgs.com/wp-content/uploads/2018/01/Internet-de-las-cosas-IoT.png&quot; alt=&quot;alt text&quot; title=&quot;Taller Iot&quot;&gt;&lt;/p&gt;
+&lt;h5
         
       
     
